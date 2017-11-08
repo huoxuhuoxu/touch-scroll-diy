@@ -21,4 +21,4 @@
 	myScroll.refresh: 容器刷新
 	myScroll.destroy: 容器销毁
 
-[演示项目](https://github.com/huoxuhuoxu/touch-scroll-diy)
+[演示项目](https://github.com/huoxuhuoxu/touch-scroll-diy-demo)
