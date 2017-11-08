@@ -12,7 +12,7 @@
 	let myScroll = new TouchScroll("body");
 
 
-##### rule
+##### explain
 
 	new TouchScroll(argv): 建立滑动容器
 		argv: 传入一个querySelector可识别的字符串
